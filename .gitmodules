@@ -1,0 +1,9 @@
+[submodule "CPP00"]
+	path = CPP00
+	url = git@vogsphere.kzn.21-school.ru:vogsphere/intra-uuid-05fbe299-a06a-4d24-b268-1a007a51741a-3931710
+[submodule "CPP01"]
+	path = CPP01
+	url = git@vogsphere.kzn.21-school.ru:vogsphere/intra-uuid-e0ccc9b8-3727-403c-abee-d90cc2362e95-4122856-eveiled
+[submodule "CPP02"]
+	path = CPP02
+	url = git@vogsphere.kzn.21-school.ru:vogsphere/intra-uuid-9db9f194-84c6-4cd9-b5c9-69af6e1f3242-4135826-eveiled
