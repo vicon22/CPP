@@ -1,7 +1,7 @@
 
-NAME	= span
+NAME	= stack
 #
-SRCS	= main.cpp Span.cpp
+SRCS	= main.cpp
 #
 OBJS	= $(SRCS:.cpp=.o)
 #
@@ -9,7 +9,7 @@ CFLAGS	= -Wall -Wextra -Werror -std=c++98
 #
 CC = c++
 #
-HEADER =  Span.h
+HEADER =  MutantStack.h
 #
 .PHONY: all clean fclean re
 
